@@ -1,1 +1,2 @@
 # streaming-platform-data-analysis-excel
+Streaming Platform Data Analysis and Interactive Dashboard using Microsoft Excel. This project analyzes user behavior, watch time trends, subscription preferences, platform performance, and engagement patterns across OTT platforms such as Netflix, Amazon Prime, Disney+ Hotstar, SonyLiv, and Zee5. The dashboard includes PivotTables, PivotCharts, slicers, KPI metrics, genre analysis, user distribution, watch time trends, and subscription insights for effective data-driven decision-making.
